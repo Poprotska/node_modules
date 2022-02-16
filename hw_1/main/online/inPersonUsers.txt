@@ -1,3 +1,0 @@
-name:PETRO, 
-age:19, 
-city:Rivne

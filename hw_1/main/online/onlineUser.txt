@@ -1,3 +1,0 @@
-name:MARTA, 
-age:24, 
-city:lviv
